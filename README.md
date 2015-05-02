@@ -7,4 +7,4 @@
 
 2. 将 _vimrc 文件放到你的vim安装根目录下
 
-3. 在bash中输入""PluginInstall",回车
+3. 在bash中输入"PluginInstall",回车
