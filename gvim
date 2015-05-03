@@ -1,0 +1,3 @@
+#!/bin/sh
+
+exec /D/"Program Files"/Vim/vim74/gvim "$@" &
